@@ -74,11 +74,13 @@ Scribe currently includes:
 
 Planned improvements include:
 
-- signed and notarized builds
-- better first-run model messaging
-- optional smaller model variants
+- signed and notarized builds for a smoother Mac install
+- speaker labels for interviews and multi-person recordings
+- searchable transcripts with fast jump-to-moment playback
+- quote and highlight workflows for reporters, writers, and researchers
+- lightweight summaries that help you find the story without replacing the source
+- a simple local library for past recordings and transcripts
 - stronger recovery for interrupted transcription jobs
-- optional speaker diarization in a later version
 
 ## How To Use Scribe
 
