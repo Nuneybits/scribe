@@ -24,13 +24,9 @@ It is built for journalists, writers, researchers, founders, students, and anyon
 
 ![Scribe start screen](docs/images/scribe-start.png)
 
-### Watch the draft come together
-
-![Scribe live draft preview](docs/images/scribe-live-preview.png)
-
 ### Read, skim, play back, and export
 
-![Scribe finished transcript](docs/images/scribe-transcript.png)
+![Scribe playback and transcript view](docs/images/scribe-playback.png)
 
 ## Download
 
